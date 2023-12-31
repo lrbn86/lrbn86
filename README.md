@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 
 ![Streak Stats](https://streak-stats.demolab.com/?user=lrbn86&theme=onedark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lrbn86&show_icons=true&theme=onedark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=lrbn86&show_icons=true&theme=onedark&langs_count=4&layout=compact)
