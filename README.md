@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=lrbn86&show_icons=true&theme=onedark&langs_count=5&layout=compact)
+<br>
 ![Streak Stats](https://streak-stats.demolab.com/?user=lrbn86&theme=onedark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=lrbn86&show_icons=true&theme=onedark&langs_count=4&layout=compact)
